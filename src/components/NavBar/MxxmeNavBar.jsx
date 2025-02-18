@@ -7,7 +7,7 @@ function MxxxmeNavBar() {
             <nav className="navbar navbar-expand-lg bg-body-tertiary fixed-top">
                 <div className="container-fluid">
                     <a className="navbar-brand" href="#">
-                        MXXME TECH
+                        CODE MXXME
                     </a>
                     <button
                         className="navbar-toggler"
